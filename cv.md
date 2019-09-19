@@ -9,3 +9,10 @@
   - Power stations
 - Kazan State Energy University
   - Electrical equipment of enterprises 
+
+## Skills
+
+- C#
+- ASP.Net Core
+- Html
+- Css
